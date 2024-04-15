@@ -29,6 +29,10 @@ nav.navbar.navbar-expand-lg.navbar-dark.bg-dark{
 
 a.navbar-brand{
     font-size: x-large;
+    font-family: "Anta", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 1rem;
 }
 
 a.nav-link{
@@ -50,6 +54,8 @@ h1.display-4.fw-bold.text-body-emphasis{
 div.container.under.mb-3{
     margin-top:0px;
 }
+
+
 
 div.container-xl{
     background-color: #78263b !important;
@@ -82,6 +88,7 @@ a.nav-link.active.px-2{
 img.d-block.w-100{
     height: 80vh !important;
 }
+
 
 
 div.p-3.mb-4.bg-body-tertiary.rounded-3{
